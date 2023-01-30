@@ -1,6 +1,6 @@
 # Exercicios CSharp - Struct
 
- --> Este seguinte projeto é uma atividade de programação de algoritmos, sobre Programação Orientada a Objetos.
+ --> Este seguinte projeto é uma atividade de programação de algoritmos, sobre Struct.
 
 ### Proposta da atividade:
 
