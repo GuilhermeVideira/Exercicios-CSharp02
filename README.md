@@ -1,4 +1,4 @@
-# Exercicios CSharp - Struct
+# Exercicios CSharp - Struct.
 
  --> Este seguinte projeto é uma atividade de programação de algoritmos, sobre Struct.
 
